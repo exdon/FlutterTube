@@ -1,6 +1,7 @@
-# fluttertube
+# FlutterTube
 
-A new Flutter project.
+App made with Flutter that you can search videos from YouTube and then you can put them in a favorite list, as well as watch.
+I created it to learn more about BLoC Pattern, RxDart and Streams.
 
 ## Getting Started
 
